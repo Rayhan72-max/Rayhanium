@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rayhanium/static/css/main.6fade7b6.chunk.css",
+    "main.js": "/Rayhanium/static/js/main.e2f095b5.chunk.js",
+    "main.js.map": "/Rayhanium/static/js/main.e2f095b5.chunk.js.map",
+    "runtime-main.js": "/Rayhanium/static/js/runtime-main.e2151a97.js",
+    "runtime-main.js.map": "/Rayhanium/static/js/runtime-main.e2151a97.js.map",
+    "static/js/2.a62abc36.chunk.js": "/Rayhanium/static/js/2.a62abc36.chunk.js",
+    "static/js/2.a62abc36.chunk.js.map": "/Rayhanium/static/js/2.a62abc36.chunk.js.map",
+    "index.html": "/Rayhanium/index.html",
+    "precache-manifest.ff3eba9a208e29c2dafb28b7ab026aae.js": "/Rayhanium/precache-manifest.ff3eba9a208e29c2dafb28b7ab026aae.js",
+    "service-worker.js": "/Rayhanium/service-worker.js",
+    "static/css/main.6fade7b6.chunk.css.map": "/Rayhanium/static/css/main.6fade7b6.chunk.css.map",
+    "static/js/2.a62abc36.chunk.js.LICENSE.txt": "/Rayhanium/static/js/2.a62abc36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2151a97.js",
+    "static/js/2.a62abc36.chunk.js",
+    "static/css/main.6fade7b6.chunk.css",
+    "static/js/main.e2f095b5.chunk.js"
+  ]
+}
